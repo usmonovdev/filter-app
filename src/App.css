@@ -3,3 +3,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+p {
+    display: inline;
+    padding: 10px;
+}
